@@ -1,0 +1,2 @@
+[console_scripts]
+circle_motion_node = angular_vel_demo.angular_vel:main
