@@ -26,7 +26,8 @@ setup(
         'console_scripts': [
             "my_custom_node = my_py_pkg.my_custom_node:main",
             "number_publisher = my_py_pkg.number_publisher:main",
-            "number_subscriber_node = my_py_pkg.number_subscriber:main"
+            "number_subscriber_node = my_py_pkg.number_subscriber:main",
+            "hardware_status_publisher_node = my_py_pkg.hardware_status_publisher:main",
         ],
     },
 )
