@@ -1,1 +1,0 @@
-angular_vel_demo

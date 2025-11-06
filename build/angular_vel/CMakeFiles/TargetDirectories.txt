@@ -1,9 +1,0 @@
-/home/drwise/ros2_ws/build/angular_vel/CMakeFiles/uninstall.dir
-/home/drwise/ros2_ws/build/angular_vel/CMakeFiles/angular_vel_uninstall.dir
-/home/drwise/ros2_ws/build/angular_vel/CMakeFiles/test.dir
-/home/drwise/ros2_ws/build/angular_vel/CMakeFiles/edit_cache.dir
-/home/drwise/ros2_ws/build/angular_vel/CMakeFiles/rebuild_cache.dir
-/home/drwise/ros2_ws/build/angular_vel/CMakeFiles/list_install_components.dir
-/home/drwise/ros2_ws/build/angular_vel/CMakeFiles/install.dir
-/home/drwise/ros2_ws/build/angular_vel/CMakeFiles/install/local.dir
-/home/drwise/ros2_ws/build/angular_vel/CMakeFiles/install/strip.dir

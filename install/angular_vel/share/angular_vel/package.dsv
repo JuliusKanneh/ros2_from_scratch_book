@@ -1,8 +1,0 @@
-source;share/angular_vel/hook/cmake_prefix_path.ps1
-source;share/angular_vel/hook/cmake_prefix_path.dsv
-source;share/angular_vel/hook/cmake_prefix_path.sh
-source;share/angular_vel/local_setup.bash
-source;share/angular_vel/local_setup.dsv
-source;share/angular_vel/local_setup.ps1
-source;share/angular_vel/local_setup.sh
-source;share/angular_vel/local_setup.zsh
